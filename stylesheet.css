@@ -1,0 +1,9 @@
+/* Russian-layout background; change this hex value to choose another color. */
+.layout-color-indicator-russian #panel {
+    background-color: #5b245f;
+}
+
+/* Ubuntu Dock background. */
+.layout-color-indicator-russian #dashtodockContainer .dash-background {
+    background-color: #5b245f;
+}
